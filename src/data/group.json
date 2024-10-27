@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Amir Atoufi",
+        "title": "Postdoctoral Researcher",
+        "cv": "https://www.dropbox.com/scl/fi/d7t68kjr04qn0umrair9p/Amir-Atoufi-CV.pdf?rlkey=509tsor3977auetr84z6el2t8&dl=0",
+        "image": "/images/amir_image.jpg"
+    },
+    {
+        "name": "Valentin Samon",
+        "title": "Research Intern (2024, Ecole Polytechnique)",
+        "image": ""
+
+    },
+    {
+        "name": "Isaac Barden",
+        "title": "Research Intern (2024, Engineering Department, University of Cambrdige)",
+        "image": ""
+
+    }
+]

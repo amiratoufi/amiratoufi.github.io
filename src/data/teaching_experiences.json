@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Supervision in the following courses",
+    "cources": [
+      "Dynamics and Relativity (first year), Lent 2023",
+      "Fluid Dynamics (third year), Michaelmas 2023",
+      "Waves (third year), Lent 2024"
+    ],
+    "Assessor": "Computational projects (second year), Fluid Dynamics and Numerical Analysis module, Faculty of Mathematics, Easter term, 2021",
+    "place": "University of Cambridge"
+  },
+  {
+    "title": "Teaching Assistant in the following courses",
+    "cources": [
+      "Fluid Mechanics (SYDE 383), Spring 2017- 2019 ",
+      "Thermodynamics (SYDE 381), Spring 2020 ",
+      "Advanced Engineering Mathematics 1 (SYDE 211), Winter 2018, 2020",
+      "Applied Linear Algebra (SYDE 312), Winter 2019",
+      "Fundamental of Engineering Mathematics 2 (SYDE 112), Winter 2017",
+      "Matrices and Linear Systems (SYDE 113), Fall 2016- 2020",
+      "Calculus I for Engineering (MATH 116), Fall 2019"
+    ],
+    "Assessor": "Tutor for SYDE 311 (Advanced Engineering Mathematics 2) at the University of Waterloo, Spring 2017",
+    "place": "University of Waterloo"
+  },
+  {
+    "title": "Teaching Assistant in Differential Equations, Jan. 2009-Jun. 2009",
+    "place": "K. N. Toosi University of Technology, Faculty of Aerospace Engineering"
+  }
+]
