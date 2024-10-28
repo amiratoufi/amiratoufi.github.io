@@ -9,6 +9,12 @@ const nextConfig = {
   compiler: {
     removeConsole: process.env.DEPLOYMENT === "main",
   },
+  output: 'export', 
+ 
+
+  images: {
+    unoptimized: true,
+  },
 };
 
 module.exports = nextConfig;
