@@ -9,7 +9,7 @@ const nextConfig = {
   compiler: {
     removeConsole: process.env.DEPLOYMENT === "main",
   },
-  output: 'export', 
+
  
 
   images: {
