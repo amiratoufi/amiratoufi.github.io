@@ -6,6 +6,8 @@
      - "/characteristics.jpg"
   "link": ""
   "date": "2023/09"
+  "videos":
+   - "/videos/SIC.mp4"
 ---
 
 

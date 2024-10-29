@@ -1,17 +1,35 @@
 ---
-    "title": Abyssal Ocean Turbulence
+    "title": Abyssal Ocean Dynamics and Boundary Layer Turbulence
     "hero": "/AbysaalOcean.jpg"
     "link": ""
     "date": "2024/09"
     "videos":
-        - "/videos/edited_no_black_spaces_video.mp4"
+        - "/videos/BBL2D.mp4"
+        - "/videos/BBL3D_C2.mp4"
 
     
 ---
-The abyssal ocean is a dynamic environment marked by intense turbulence and complex mixing processes driven by variations in temperature, salinity, and internal tides. This turbulence results from gravitational forces acting on density differences in seawater, causing water to move up and down along sloping bottom topagraphy. When this movement interacts with the rough topography, it generates turbulent eddies and mixing processes, known as bottom boundary layer turbulence. This mixing facilitates the crucial exchange of heat, carbon, and nutrients between the deep ocean and the upper layers, impacting both marine ecosystems and clmate regulations.
 
-In abyssal ocean circulation, cold, dense water forms near polar regions, sinking and spreading along the ocean floor toward the equator, driven by density gradients. This movement, sustained by bottom boundary layer turbulence, contributes to the global ocean overturning circulation—a system redistributing heat and nutrients on a planetary scale. This circulation influences weather, marine ecosystem stability, and Earth's climate by acting as a long-term sink for carbon and heat.
+&nbsp;
 
-As interest in deep-sea mining grows, scientists are increasingly concerned about its potential impact on abyssal turbulence and the ecosystems it sustains. The ocean floor contains valuable resources like manganese nodules and cobalt-rich crusts, which are essential for various technologies. However, mining these resources could disrupt sediment layers, increase local turbidity, and alter natural mixing processes, affecting the delicate balance of nutrient distribution and the overall health of deep-sea habitats.
+The **abyssal ocean** is a dynamic environment where intense turbulence and complex mixing processes are driven by variations in temperature, salinity, and internal tides. Gravitational forces act on density differences in seawater, along with internal tides moving water along sloping seafloor topography. This interaction with rugged terrain generates turbulent eddies and **bottom boundary layer turbulence**, facilitating the exchange of heat, carbon, and nutrients between deep ocean layers and the surface. These exchanges play essential roles in marine ecosystems and climate regulation.
 
-Studying abyssal turbulence and the effects of human activities like deep-sea mining is crucial for understanding and protecting the deep ocean’s role in global climate stability and marine biodiversity.
+&nbsp;
+
+Boundary layer dynamics over sloping topography in stratified, rotating fluids are crucial for understanding how mixing, turbulence, and large-scale energy transport impact the distribution of heat, nutrients, and other tracers within Earth’s systems. Decades of research have revealed complex interactions among internal waves, stratification, and topographic effects, providing insights into **boundary layer turbulence (BLT)** and mixing mechanisms under tidal forces in stratified environments.
+
+&nbsp;
+
+In **abyssal circulation**, dense, cold water forms near polar regions, sinking and spreading along the ocean floor toward the equator due to density gradients. This bottom boundary layer turbulence contributes to the global **ocean overturning circulation**, a system that redistributes heat and nutrients worldwide. It serves as a long-term sink for carbon and heat, influencing weather, marine ecosystem stability, and Earth’s climate.
+
+&nbsp;
+
+With the rise of **deep-sea mining**, there is growing concern over its potential impact on abyssal turbulence and the ecosystems it supports. The deep-sea floor contains valuable resources like manganese nodules and cobalt-rich crusts essential for technology, but mining can disrupt sediment layers, increase turbidity, and alter natural mixing processes. This disruption threatens nutrient balance and deep-sea habitat health.
+
+&nbsp;
+
+Research on abyssal turbulence and human impacts, such as deep-sea mining, is essential for preserving the deep ocean’s role in climate stability and biodiversity.
+
+&nbsp;
+
+I study BLT using large eddy simulations of idealized BLT and aim to shed light on the underlying mechanisms that drive topographical mixing and upwelling, which are crucial in climate regulation.

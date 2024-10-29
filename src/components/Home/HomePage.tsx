@@ -22,25 +22,14 @@ const HomePage = () => {
             Amir Atoufi
           </h1>
           <p className="mt-4 text-center md:text-left p-4">
-          Amir Atoufi is a Research Associate in the Department of Earth Sciences at 
-          the University of Cambridge and a geophysical fluid dynamicist with a focus on 
-          boundary layer processes. His research integrates theory, numerical simulations, 
-          laboratory experiments, and mathematical analysis to understand complex 
-          geophysical flows. Prior to joining Earth Sciences, he was a postdoctoral 
-          research associate in the Department of Applied Mathematics and Theoretical 
-          Physics (DAMTP), where he was part of the Atmosphere-Ocean Dynamics Group and 
-          the G.K. Batchelor Laboratory. Amir obtained his Ph.D. from the University of 
-          Waterloo, focusing on turbulence in stably stratified boundary layers similar to 
-          that of nocturnal atmospheric boundary layers. In his postdoctoral studies in DAMTP, he 
-          contributed to the ERC-funded project called STAMP (Stratified Turbulence and Mixing 
-          Processes), investigating the relationship between internal hydraulics and mixing in 
-          stratified exchange flows, such as those in estuaries and stratits. 
-          Currently, Amir’s research centers on abyssal ocean turbulence. His work explores 
-          the interactions between tides and oceanic bottom boundary layer processes, 
-          including upwelling and downwelling, in collaboration with DAMTP.
+          I am a Research Associate in the Department of Earth Sciences at the University of Cambridge, specializing in geophysical fluid dynamics with a focus on boundary layer processes. My research combines theory, numerical simulations, laboratory experiments, and mathematical analysis to better understand complex geophysical flows. Before joining Earth Sciences, I worked as a postdoctoral research associate in the Department of Applied Mathematics and Theoretical Physics (DAMTP) as part of the Atmosphere-Ocean Dynamics Group and the G.K. Batchelor Laboratory.
+
+I completed my Ph.D. at the University of Waterloo, where I focused on turbulence in stably stratified boundary layers, particularly in contexts similar to nocturnal atmospheric boundary layers. During my postdoctoral studies at DAMTP, I contributed to the ERC-funded STAMP (Stratified Turbulence and Mixing Processes) project, investigating the relationship between internal hydraulics and mixing in stratified exchange flows, such as those found in estuaries and straits.
+
+My current research centers on abyssal ocean turbulence, specifically exploring interactions between tides and bottom boundary layer processes, including upwelling and downwelling. I work closely with DAMTP colleagues to deepen our understanding of these crucial oceanic processes.
           </p>
           <p className="text-center md:text-left p-4">
-          Amir holds an MSc in Aerodynamics from K. N. Toosi University of Technology, where his thesis focused on compressible turbulent mixing using large eddy simulations (LES). He also holds a BSc in Mechanical Engineering. After completing his Master’s, Amir worked in the offshore oil and gas industry, where he gained broad experience in roles such as mechanical engineer, projects coordinator, hydrodynamic analyst, computational fluid dynamics (CFD) engineer, engineering coordinator, and project manager.
+          I hold an MSc in Aerodynamics from K. N. Toosi University of Technology, where my thesis focused on compressible turbulent mixing using large eddy simulations (LES). I also have a BSc in Mechanical Engineering. After completing my Master’s, I worked in the offshore oil and gas industry, gaining broad experience in roles such as mechanical engineer, projects coordinator, hydrodynamic analyst, computational fluid dynamics (CFD) engineer, engineering coordinator, and project manager.
           </p>
           <div className="text-center md:text-left font-semibold p-4">
             <button
