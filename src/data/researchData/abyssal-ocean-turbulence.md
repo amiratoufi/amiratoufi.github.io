@@ -1,5 +1,5 @@
 ---
-    "title": Abyssal Ocean Dynamics and Boundary Layer Turbulence
+    "title": Abyssal Ocean Turbulence
     "hero": "/AbysaalOcean.jpg"
     "link": ""
     "date": "2024/09"
